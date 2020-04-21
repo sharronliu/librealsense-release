@@ -19,8 +19,8 @@ tracks:
     patches: null
     release_inc: '2'
     release_repo_url: https://github.com/sharronliu/librealsense-release.git
-    release_tag: 2.34.0-ros2
+    release_tag: ros2debian
     ros_distro: dashing
     vcs_type: git
     vcs_uri: https://github.com/sharronliu/librealsense.git
-    version: :{auto}
+    version: 2.34.0
