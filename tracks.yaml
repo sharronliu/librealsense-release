@@ -13,11 +13,11 @@ tracks:
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
     devel_branch: null
-    last_release: 2.34.0-ros2
+    last_release: ros2debian
     last_version: 2.34.0
     name: librealsense
     patches: null
-    release_inc: '2'
+    release_inc: '3'
     release_repo_url: https://github.com/sharronliu/librealsense-release.git
     release_tag: ros2debian
     ros_distro: dashing
